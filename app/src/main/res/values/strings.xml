@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Todo Application</string>
+    <string name="enter_updates">Enter Updates</string>
+    <string name="to_do_list">To-Do List</string>
+    <string name="date">Date:-</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="task">Task:-</string>
+    <string name="enter_task">Enter Task</string>
+    <string name="time">Time:-</string>
+    <string name="enter_time">Enter Time</string>
+    <string name="delete_message">Are you sure to remove</string>
+    <string name="removed">Removed</string>
+</resources>
